@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RakshithSuresh2001
+- 👋 Hi, I’m Rakshith Suresh
 - 👀 I’m interested in PCB Designing and Semiconductors.
 - 🌱 I’m currently learning 3D Modeling and Verilog
 - 💞️ I’m looking to collaborate on making a small PCB based projects.
