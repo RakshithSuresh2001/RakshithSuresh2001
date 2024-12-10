@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rakshith Suresh
-- 👀 I’m interested in PCB Designing and Semiconductors.
+- 👀 I’m interested in designing Digital Integrated Circuits and PCBs.
 - 🌱 I’m currently learning 3D Modeling and Verilog
 - 💞️ I’m looking to collaborate on making a small fan website on Formula1!
 - 📫 How to reach me - rakshithsuresh2001@gmail.com
