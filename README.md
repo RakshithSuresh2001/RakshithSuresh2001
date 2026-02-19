@@ -13,10 +13,10 @@
 - **ML/Programming:** Python (scikit-learn, pandas), C/C++, MATLAB
 
 📌 **Featured Projects:**
-- [RTL-to-GDS Digital ASIC Design](link)
-- [ML-Based Circuit Performance Prediction](link)
+- [RTL-to-GDS Digital ASIC Design]
+- [ML-Based Circuit Performance Prediction]
 
-📫 **Reach me:** rakshithsuresh2001@gmail.com | [LinkedIn](link)
+📫 **Reach me:** rakshithsuresh2001@gmail.com | [LinkedIn]
 <!---
 RakshithSuresh2001/RakshithSuresh2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
