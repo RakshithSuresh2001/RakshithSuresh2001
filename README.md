@@ -16,7 +16,7 @@
 - [RTL-to-GDS Digital ASIC Design]
 - [ML-Based Circuit Performance Prediction]
 
-📫 **Reach me:** rakshithsuresh2001@gmail.com | [LinkedIn]
+📫 **Reach me:** rakshithsuresh2001@gmail.com 
 <!---
 RakshithSuresh2001/RakshithSuresh2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
