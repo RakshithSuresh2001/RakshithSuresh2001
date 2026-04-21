@@ -1,6 +1,3 @@
-Here's your updated GitHub profile bio:
-
----
 
 Hi, I'm Rakshith Suresh 👋
 🎓 MS Electrical Engineering @ USC Viterbi | VLSI Design & Verification
