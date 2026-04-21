@@ -1,24 +1,34 @@
-Hi, I'm Rakshith 👋
+Here's your updated GitHub profile bio:
 
-MS EE student at USC Viterbi, focusing on VLSI design and pre-silicon verification. I spend most of my time either writing RTL, debugging EDA toolchains, or training ML models to predict circuit behavior before simulation.
-What I'm working on:
+---
 
-Just taped out an 8×8 systolic array on SkyWater 130nm — full RTL-to-GDS using OpenROAD and Yosys
-Using Random Forest models to approximate SPICE simulation results (94% accuracy, much faster iteration)
-RRAM/memristor device physics and circuit modeling for neuromorphic computing
+Hi, I'm Rakshith Suresh 👋
+🎓 MS Electrical Engineering @ USC Viterbi | VLSI Design & Verification
+🔬 Current Focus:
 
-Tools I use regularly:
+* RTL-to-GDS physical design using open-source EDA (OpenROAD + SkyWater 130nm)
+* Machine learning for circuit performance prediction & EDA automation
+* Pre-silicon functional verification (SystemVerilog, UVM)
+* Memristor & RRAM device modeling (EE576)
 
-EDA: Cadence Virtuoso, Cadence Innovus, HSPICE, OpenROAD, Yosys, Synopsys Design Compiler
-HDL: SystemVerilog, Verilog, UVM, Verilog-A
-Programming: Python, TCL, C/C++, MATLAB
+🛠️ Tech Stack:
 
-Projects:
+* EDA Tools: Cadence Virtuoso, Cadence Innovus, HSPICE, OpenROAD, Yosys, Synopsys Design Compiler
+* HDL & Verification: SystemVerilog, Verilog, UVM, VHDL, Verilog-A
+* ML & Programming: Python (scikit-learn, pandas, NumPy), C/C++, TCL, MATLAB
 
-8×8 Weight-Stationary Systolic Array — RTL to GDS — 25,030 std cells, full physical design flow, KLayout GDS output
-ML-Based Circuit Performance Prediction — SPICE approximation with scikit-learn
+📌 Featured Projects:
 
-📫 rakshithsuresh2001@gmail.com
+* [8×8 Weight-Stationary Systolic Array — RTL to GDS on SkyWater 130nm](https://github.com/RakshithSuresh2001/Systolic-Array) — 25,030 std cells, full OpenROAD flow, KLayout GDS
+* [ML-Based Circuit Performance Prediction](https://github.com/RakshithSuresh2001/ML-Based-Circuit-Performance-Prediction-for-VLSI-Design-Optimization) — Random Forest model approximating SPICE simulation at 94% accuracy
+
+📫 Reach me: rakshithsuresh2001@gmail.com
+
+---
+
+Two things to update once your repo is live:
+1. Replace `your-repo-link` with the actual GitHub repo URLs
+2. Add your LinkedIn URL if you want it visible on your profile page
 <!---
 RakshithSuresh2001/RakshithSuresh2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
