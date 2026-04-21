@@ -25,10 +25,6 @@ Hi, I'm Rakshith Suresh 👋
 📫 Reach me: rakshithsuresh2001@gmail.com
 
 ---
-
-Two things to update once your repo is live:
-1. Replace `your-repo-link` with the actual GitHub repo URLs
-2. Add your LinkedIn URL if you want it visible on your profile page
 <!---
 RakshithSuresh2001/RakshithSuresh2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
