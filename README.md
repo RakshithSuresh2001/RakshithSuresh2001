@@ -1,4 +1,5 @@
 Hi, I'm Rakshith 👋
+
 MS EE student at USC Viterbi, focusing on VLSI design and pre-silicon verification. I spend most of my time either writing RTL, debugging EDA toolchains, or training ML models to predict circuit behavior before simulation.
 What I'm working on:
 
