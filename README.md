@@ -1,6 +1,7 @@
 
 Hi, I'm Rakshith Suresh 👋
 🎓 MS Electrical Engineering @ USC Viterbi | VLSI Design & Verification
+
 🔬 Current Focus:
 
 * RTL-to-GDS physical design using open-source EDA (OpenROAD + SkyWater 130nm)
