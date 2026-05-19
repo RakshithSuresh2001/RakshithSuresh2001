@@ -1,29 +1,14 @@
+📌 Featured Projects
+PicoRISCV-SoC — RISC-V SoC with ML Accelerator
+PicoRV32 (RV32IM) CPU integrated with an 8×8 weight-stationary systolic array over AXI-Lite MMIO and a 4-wire SPI slave interface (390→4 pins). Full RTL-to-GDS on ASAP7 via OpenROAD: 47,051 cells · 5,431 µm² · 500 MHz · 0 DRC violations. Phase 3 includes IRQ feedback from accelerator to CPU on computation complete.
+Systolic Array Accelerator — RTL to GDS
+8×8 weight-stationary systolic array, INT8 weights, INT32 accumulators. Full OpenROAD flow on two nodes:
+NodeFrequencyAreaPowerSkyWater 130nm50 MHz251,970 µm²11.4 mWASAP7 7nm500 MHz3,903 µm²3.58 µW leakage
+10× frequency · 64.6× area reduction · 3,185× leakage reduction across nodes. Submitted to ChipFoundry CI2609 shuttle via Caravel wrapper.
+ML-Based Physical Design Automation
+Random Forest regression model predicting post-synthesis PPA from RTL features — 92% accuracy, automated via Python/TCL scripts integrated into OpenROAD flow, cutting manual iteration cycles by 40%.
 
-Hi, I'm Rakshith Suresh 👋
-🎓 MS Electrical Engineering @ USC Viterbi | VLSI Design & Verification
+📫 Contact
+Email: rakshithsuresh2001@gmail.com
+LinkedIn: rakshith-suresh-890329258
 
-🔬 Current Focus:
-
-* RTL-to-GDS physical design using open-source EDA (OpenROAD + SkyWater 130nm)
-* Machine learning for circuit performance prediction & EDA automation
-* Pre-silicon functional verification (SystemVerilog, UVM)
-* Memristor & RRAM device modeling (EE576)
-
-🛠️ Tech Stack:
-
-* EDA Tools: Cadence Virtuoso, Cadence Innovus, HSPICE, OpenROAD, Yosys, Synopsys Design Compiler
-* HDL & Verification: SystemVerilog, Verilog, UVM, VHDL, Verilog-A
-* ML & Programming: Python (scikit-learn, pandas, NumPy), C/C++, TCL, MATLAB
-
-📌 Featured Projects:
-
-* [8×8 Weight-Stationary Systolic Array — RTL to GDS on SkyWater 130nm](https://github.com/RakshithSuresh2001/Systolic-Array) — 25,030 std cells, full OpenROAD flow, KLayout GDS
-* [ML-Based Circuit Performance Prediction](https://github.com/RakshithSuresh2001/ML-Based-Circuit-Performance-Prediction-for-VLSI-Design-Optimization) — Random Forest model approximating SPICE simulation at 94% accuracy
-
-📫 Reach me: rakshithsuresh2001@gmail.com
-
----
-<!---
-RakshithSuresh2001/RakshithSuresh2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
