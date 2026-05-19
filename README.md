@@ -1,4 +1,5 @@
 📌 Featured Projects
+
 PicoRISCV-SoC — RISC-V SoC with ML Accelerator
 PicoRV32 (RV32IM) CPU integrated with an 8×8 weight-stationary systolic array over AXI-Lite MMIO and a 4-wire SPI slave interface (390→4 pins). Full RTL-to-GDS on ASAP7 via OpenROAD: 47,051 cells · 5,431 µm² · 500 MHz · 0 DRC violations. Phase 3 includes IRQ feedback from accelerator to CPU on computation complete.
 
