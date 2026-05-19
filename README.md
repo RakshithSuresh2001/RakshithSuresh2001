@@ -17,5 +17,4 @@ Random Forest regression model predicting post-synthesis PPA from RTL features â
 
 ðŸ“« Contact
 Email: rakshithsuresh2001@gmail.com
-LinkedIn: rakshith-suresh-890329258
 
