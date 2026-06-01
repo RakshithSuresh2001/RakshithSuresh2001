@@ -1,4 +1,4 @@
-Featured Projects
+ 📌Featured Projects
 
 PicoRISCV-SoC — RISC-V SoC with ML Accelerator
 
