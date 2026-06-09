@@ -1,4 +1,9 @@
  📌Featured Projects
+**2 Warp SIMT GPU Core — RTL to GDS**
+
+2-warp, 8-lane SIMT execution engine in RV32I. Round-robin warp scheduler with load stall detection, per-lane register files, and 8-bank scratchpad memory. Verified with a directed testbench (34/34 passing) and Spike ISS co-simulation across all 8 lanes. Full RTL-to-GDS on ASAP7 via OpenROAD: 318 cells, 39 µm², 500 MHz, 0 DRC violations, 50.2 µW.
+
+<img width="371" height="326" alt="Screenshot 2026-06-07 135004" src="https://github.com/user-attachments/assets/269d1cee-bc64-4c31-9a72-8120a6b65697" />
 
 **PicoRISCV-SoC — RISC-V SoC with ML Accelerator**
 
@@ -32,13 +37,6 @@ Resolved a Verilator --timing coroutine limitation where post-NBA signal values 
 <img width="264" height="434" alt="Screenshot 2026-05-29 215116" src="https://github.com/user-attachments/assets/9e9c7001-9535-4470-8322-33e2d4f51135" />
 
 <img width="270" height="231" alt="Screenshot 2026-05-29 215106" src="https://github.com/user-attachments/assets/395e8086-7368-4a70-9d06-36b424557eab" />
-
-
-**2 Warp SIMT GPU Core — RTL to GDS**
-
-2-warp, 8-lane SIMT execution engine in RV32I. Round-robin warp scheduler with load stall detection, per-lane register files, and 8-bank scratchpad memory. Verified with a directed testbench (34/34 passing) and Spike ISS co-simulation across all 8 lanes. Full RTL-to-GDS on ASAP7 via OpenROAD: 318 cells, 39 µm², 500 MHz, 0 DRC violations, 50.2 µW.
-
-<img width="371" height="326" alt="Screenshot 2026-06-07 135004" src="https://github.com/user-attachments/assets/269d1cee-bc64-4c31-9a72-8120a6b65697" />
 
 **RV32I 5-Stage Pipelined CPU**
 
