@@ -38,7 +38,7 @@ Resolved a Verilator --timing coroutine limitation where post-NBA signal values 
 
 2-warp, 8-lane SIMT execution engine in RV32I. Round-robin warp scheduler with load stall detection, per-lane register files, and 8-bank scratchpad memory. Verified with a directed testbench (34/34 passing) and Spike ISS co-simulation across all 8 lanes. Full RTL-to-GDS on ASAP7 via OpenROAD: 318 cells, 39 µm², 500 MHz, 0 DRC violations, 50.2 µW.
 
-<img width="571" height="426" alt="Screenshot 2026-06-07 135004" src="https://github.com/user-attachments/assets/269d1cee-bc64-4c31-9a72-8120a6b65697" />
+<img width="371" height="326" alt="Screenshot 2026-06-07 135004" src="https://github.com/user-attachments/assets/269d1cee-bc64-4c31-9a72-8120a6b65697" />
 
 RV32I 5-Stage Pipelined CPU
 
@@ -48,7 +48,7 @@ ML-Based Physical Design Automation
 
 Random Forest regression model predicting post-synthesis PPA from RTL features, achieving 92% accuracy. Automated via Python and TCL scripts integrated into the OpenROAD flow, cutting manual iteration cycles by 40%.
 
-<img width="1943" height="907" alt="pdn_heatmap" src="https://github.com/user-attachments/assets/3b593806-f4e6-4d19-bd98-0f82d13fbaf9" />
+<img width="843" height="607" alt="pdn_heatmap" src="https://github.com/user-attachments/assets/3b593806-f4e6-4d19-bd98-0f82d13fbaf9" />
 
 📧 rakshithsuresh2001@gmail.com
 
