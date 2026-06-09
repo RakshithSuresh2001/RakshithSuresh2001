@@ -1,12 +1,12 @@
  📌Featured Projects
 
-PicoRISCV-SoC — RISC-V SoC with ML Accelerator
+**PicoRISCV-SoC — RISC-V SoC with ML Accelerator**
 
 PicoRV32 (RV32IM) CPU integrated with an 8x8 weight-stationary systolic array over AXI-Lite MMIO and a 4-wire SPI slave interface (390 to 4 pins). Full RTL-to-GDS on ASAP7 via OpenROAD: 47,051 cells, 5,431 µm², 500 MHz, 0 DRC violations. IRQ feedback from accelerator to CPU on computation complete.
 
 <img width="257" height="248" alt="Screenshot 2026-05-23 144441" src="https://github.com/user-attachments/assets/f787e911-8dc6-43e5-bd1f-5e368f8543ba" />
 
-Systolic Array Accelerator — RTL to GDS
+**Systolic Array Accelerator — RTL to GDS**
 
 8x8 weight-stationary systolic array, INT8 weights, INT32 accumulators. Full OpenROAD flow on two nodes:
 
@@ -21,7 +21,7 @@ Systolic Array Accelerator — RTL to GDS
 Submitted to ChipFoundry CI2609 shuttle via Caravel wrapper.
 
 
-UVM-Style Systolic Array Testbench
+**UVM-Style Systolic Array Testbench**
 
 Structured SystemVerilog testbench for the 8x8 systolic array, built without a UVM library to run cleanly under Verilator 5.x. Per-PE scheduled checks using a timing model, constrained random stimulus, and 5 SVA properties checking protocol correctness every clock cycle.
 
@@ -34,17 +34,17 @@ Resolved a Verilator --timing coroutine limitation where post-NBA signal values 
 <img width="270" height="231" alt="Screenshot 2026-05-29 215106" src="https://github.com/user-attachments/assets/395e8086-7368-4a70-9d06-36b424557eab" />
 
 
-2 Warp SIMT GPU Core — RTL to GDS
+**2 Warp SIMT GPU Core — RTL to GDS**
 
 2-warp, 8-lane SIMT execution engine in RV32I. Round-robin warp scheduler with load stall detection, per-lane register files, and 8-bank scratchpad memory. Verified with a directed testbench (34/34 passing) and Spike ISS co-simulation across all 8 lanes. Full RTL-to-GDS on ASAP7 via OpenROAD: 318 cells, 39 µm², 500 MHz, 0 DRC violations, 50.2 µW.
 
 <img width="371" height="326" alt="Screenshot 2026-06-07 135004" src="https://github.com/user-attachments/assets/269d1cee-bc64-4c31-9a72-8120a6b65697" />
 
-RV32I 5-Stage Pipelined CPU
+**RV32I 5-Stage Pipelined CPU**
 
 Full RV32I pipeline in SystemVerilog with forwarding, load-use stall detection, branch resolution, and a 2-bit saturating counter branch predictor. 27/27 directed tests passing across ALU ops, RAW hazard chains, load-use hazards, branches, JAL, LUI, and SLTU.
 
-ML-Based Physical Design Automation
+**ML-Based Physical Design Automation**
 
 Random Forest regression model predicting post-synthesis PPA from RTL features, achieving 92% accuracy. Automated via Python and TCL scripts integrated into the OpenROAD flow, cutting manual iteration cycles by 40%.
 
