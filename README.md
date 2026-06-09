@@ -29,9 +29,9 @@ Structured SystemVerilog testbench for the 8x8 systolic array, built without a U
 15/15 functional coverage bins closed
 Resolved a Verilator --timing coroutine limitation where post-NBA signal values are invisible inside tasks by moving psum checks into a dedicated always block
 
-<img width="464" height="734" alt="Screenshot 2026-05-29 215116" src="https://github.com/user-attachments/assets/9e9c7001-9535-4470-8322-33e2d4f51135" />
+<img width="264" height="434" alt="Screenshot 2026-05-29 215116" src="https://github.com/user-attachments/assets/9e9c7001-9535-4470-8322-33e2d4f51135" />
 
-<img width="570" height="331" alt="Screenshot 2026-05-29 215106" src="https://github.com/user-attachments/assets/395e8086-7368-4a70-9d06-36b424557eab" />
+<img width="270" height="231" alt="Screenshot 2026-05-29 215106" src="https://github.com/user-attachments/assets/395e8086-7368-4a70-9d06-36b424557eab" />
 
 
 2 Warp SIMT GPU Core — RTL to GDS
