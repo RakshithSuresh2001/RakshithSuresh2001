@@ -33,7 +33,7 @@ Submitted to ChipFoundry CI2609 shuttle via Caravel wrapper.
 
 **UVM-Style Systolic Array Testbench**
 
-Structured SystemVerilog testbench for the 8x8 systolic array, built without a UVM library to run cleanly under Verilator 5.0.20. Per-PE scheduled checks using a timing model, constrained random stimulus, and 5 SVA properties checking protocol correctness every clock cycle.
+Structured SystemVerilog testbench for the 8x8 systolic array, built without a UVM library to run cleanly under Verilator 5.020. Per-PE scheduled checks using a timing model, constrained random stimulus, and 5 SVA properties checking protocol correctness every clock cycle.
 
 1,337 functional checks, zero failures across 5 random seeds
 15/15 functional coverage bins closed
