@@ -48,7 +48,7 @@ ML-Based Physical Design Automation
 
 Random Forest regression model predicting post-synthesis PPA from RTL features, achieving 92% accuracy. Automated via Python and TCL scripts integrated into the OpenROAD flow, cutting manual iteration cycles by 40%.
 
-<img width="843" height="607" alt="pdn_heatmap" src="https://github.com/user-attachments/assets/3b593806-f4e6-4d19-bd98-0f82d13fbaf9" />
+<img width="443" height="207" alt="pdn_heatmap" src="https://github.com/user-attachments/assets/3b593806-f4e6-4d19-bd98-0f82d13fbaf9" />
 
 📧 rakshithsuresh2001@gmail.com
 
