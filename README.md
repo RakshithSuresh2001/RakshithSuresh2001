@@ -1,4 +1,5 @@
  📌Featured Projects
+ 
 **2 Warp SIMT GPU Core — RTL to GDS**
 
 2-warp, 8-lane SIMT execution engine in RV32I. Round-robin warp scheduler with load stall detection, per-lane register files, and 8-bank scratchpad memory. Verified with a directed testbench (34/34 passing) and Spike ISS co-simulation across all 8 lanes. Full RTL-to-GDS on ASAP7 via OpenROAD: 318 cells, 39 µm², 500 MHz, 0 DRC violations, 50.2 µW.
