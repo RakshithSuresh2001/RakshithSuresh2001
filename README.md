@@ -10,7 +10,7 @@ Systolic Array Accelerator — RTL to GDS
 
 8x8 weight-stationary systolic array, INT8 weights, INT32 accumulators. Full OpenROAD flow on two nodes:
 
-<img width="596" height="164" alt="image" src="https://github.com/user-attachments/assets/2cce8406-5f85-47f7-b9cf-c5dcedb1dd29" />
+<img width="696" height="164" alt="image" src="https://github.com/user-attachments/assets/2cce8406-5f85-47f7-b9cf-c5dcedb1dd29" />
 
 <img width="257" height="248" alt="Screenshot 2026-05-22 233913" src="https://github.com/user-attachments/assets/fce2cc2d-ad93-492e-a621-37ab6e476d4d" />
 
