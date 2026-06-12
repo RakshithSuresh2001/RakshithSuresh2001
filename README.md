@@ -1,5 +1,13 @@
  📌Featured Projects
- 
+
+ Custom ISA accelerator
+
+RV32I pipeline with custom RISC-V ISA extension (MLOAD/MMUL/MSTORE) offloading 8x8 matrix multiply to a weight-stationary systolic array over AXI-Lite. 27/27 tests passing, ASAP7 7nm PD: 11,562 cells, 1,515 µm², 756MHz.
+
+<img width="351" height="339" alt="Screenshot 2026-06-11 183453" src="https://github.com/user-attachments/assets/1530f0b3-1648-417d-8bcc-6ecc278f9572" />
+
+<img width="349" height="527" alt="Screenshot 2026-06-11 173309" src="https://github.com/user-attachments/assets/a7aaf37b-f55a-4179-84eb-d989323d340c" />
+
 **2 Warp SIMT GPU Core — RTL to GDS**
 
 2-warp, 8-lane SIMT execution engine in RV32I. Round-robin warp scheduler with load stall detection, per-lane register files, and 8-bank scratchpad memory. Verified with a directed testbench (34/34 passing) and Spike ISS co-simulation across all 8 lanes. 
