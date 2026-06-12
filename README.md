@@ -6,7 +6,7 @@ RV32I pipeline with custom RISC-V ISA extension (MLOAD/MMUL/MSTORE) offloading 8
 
 <img width="351" height="339" alt="Screenshot 2026-06-11 183453" src="https://github.com/user-attachments/assets/1530f0b3-1648-417d-8bcc-6ecc278f9572" />
 
-<img width="349" height="527" alt="Screenshot 2026-06-11 173309" src="https://github.com/user-attachments/assets/a7aaf37b-f55a-4179-84eb-d989323d340c" />
+<img width="249" height="327" alt="Screenshot 2026-06-11 173309" src="https://github.com/user-attachments/assets/a7aaf37b-f55a-4179-84eb-d989323d340c" />
 
 **2 Warp SIMT GPU Core — RTL to GDS**
 
