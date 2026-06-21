@@ -12,9 +12,7 @@ RV32I pipeline with custom RISC-V ISA extension (MLOAD/MMUL/MSTORE) offloading 8
 
 2-warp, 8-lane SIMT execution engine in RV32I. Round-robin warp scheduler with load stall detection, per-lane register files, and 8-bank scratchpad memory. Verified with a directed testbench (34/34 passing) and Spike ISS co-simulation across all 8 lanes. 
 
-Full RTL-to-GDS on ASAP7 via OpenROAD: 318 cells, 39 µm², 500 MHz, 0 DRC violations, 50.2 µW.
-
-<img width="371" height="326" alt="Screenshot 2026-06-07 135004" src="https://github.com/user-attachments/assets/269d1cee-bc64-4c31-9a72-8120a6b65697" />
+Full RTL-to-GDS on ASAP7 via OpenROAD: 663 cells, 2,862.66 µm² core area, 500 MHz, 0 DRC violations. 8x fakeram7_256x32 SRAM macros visible on the right (2,808.96 µm², ~98% of die area), standard cell logic on the left (~54 µm²).
 
 <img width="357" height="326" alt="Screenshot 2026-06-20 212816" src="https://github.com/user-attachments/assets/f149800e-582b-445e-b135-0fe83ed88eec" />
 
