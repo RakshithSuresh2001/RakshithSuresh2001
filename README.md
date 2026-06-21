@@ -16,6 +16,9 @@ Full RTL-to-GDS on ASAP7 via OpenROAD: 318 cells, 39 µm², 500 MHz, 0 DRC viola
 
 <img width="371" height="326" alt="Screenshot 2026-06-07 135004" src="https://github.com/user-attachments/assets/269d1cee-bc64-4c31-9a72-8120a6b65697" />
 
+<img width="357" height="326" alt="Screenshot 2026-06-20 212816" src="https://github.com/user-attachments/assets/f149800e-582b-445e-b135-0fe83ed88eec" />
+
+
 **PicoRISCV-SoC — RISC-V SoC with ML Accelerator**
 
 PicoRV32 (RV32IM) CPU integrated with an 8x8 weight-stationary systolic array over AXI-Lite MMIO and a 4-wire SPI slave interface (390 to 4 pins). 
