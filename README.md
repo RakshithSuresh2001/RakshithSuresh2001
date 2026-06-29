@@ -56,7 +56,7 @@ Resolved a Verilator --timing coroutine limitation where post-NBA signal values 
 
 Full RV32I pipeline in SystemVerilog with forwarding, load-use stall detection, branch resolution, and a 2-bit saturating counter branch predictor. 27/27 directed tests passing across ALU ops, RAW hazard chains, load-use hazards, branches, JAL, LUI, and SLTU.
 
-Reran the testbench under Synopsys VCS: 26/27 checks passed identically to Verilator
+Reran the testbench under Synopsys VCS: 26/27 checks passed identically to Verilator.
 
 <img width="312" height="340" alt="Screenshot 2026-06-29 114313" src="https://github.com/user-attachments/assets/b8981857-a725-4a46-a537-113692965ecf" />
 
