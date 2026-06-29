@@ -58,9 +58,9 @@ Full RV32I pipeline in SystemVerilog with forwarding, load-use stall detection, 
 
 ReRan the testbench under Synopsys VCS: 26/27 checks passed identically to Verilator
 
-<img width="212" height="240" alt="Screenshot 2026-06-29 114313" src="https://github.com/user-attachments/assets/b8981857-a725-4a46-a537-113692965ecf" />
+<img width="312" height="340" alt="Screenshot 2026-06-29 114313" src="https://github.com/user-attachments/assets/b8981857-a725-4a46-a537-113692965ecf" />
 
-<img width="212" height="240" alt="Screenshot 2026-06-29 114313" src="https://github.com/user-attachments/assets/0f870e92-2196-48b6-881b-a357bf1d2af3" />
+<img width="472" height="298" alt="Screenshot 2026-06-29 115008" src="https://github.com/user-attachments/assets/f5c39e65-1d15-491b-9a6b-540ee771893d" />
 
 **ML-Based Physical Design Automation**
 
