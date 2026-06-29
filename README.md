@@ -56,6 +56,12 @@ Resolved a Verilator --timing coroutine limitation where post-NBA signal values 
 
 Full RV32I pipeline in SystemVerilog with forwarding, load-use stall detection, branch resolution, and a 2-bit saturating counter branch predictor. 27/27 directed tests passing across ALU ops, RAW hazard chains, load-use hazards, branches, JAL, LUI, and SLTU.
 
+ReRan the testbench under Synopsys VCS: 26/27 checks passed identically to Verilator
+
+<img width="212" height="240" alt="Screenshot 2026-06-29 114313" src="https://github.com/user-attachments/assets/b8981857-a725-4a46-a537-113692965ecf" />
+
+<img width="212" height="240" alt="Screenshot 2026-06-29 114313" src="https://github.com/user-attachments/assets/0f870e92-2196-48b6-881b-a357bf1d2af3" />
+
 **ML-Based Physical Design Automation**
 
 Random Forest regression model predicting post-synthesis PPA from RTL features, achieving 92% accuracy. Automated via Python and TCL scripts integrated into the OpenROAD flow, cutting manual iteration cycles by 40%.
