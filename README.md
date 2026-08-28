@@ -70,6 +70,8 @@ Random Forest regression model predicting post-synthesis PPA from RTL features, 
 
 **Arya-OS**
 
+A bare-metal x86 kernel built from scratch in C and x86 assembly — bootloader through preemptive multitasking, with no OS underneath. I built as a systems-level counterpart to hardware/RTL work: a way to understand the hardware/software boundary from the software side, one layer at a time.
+
 <img width="733" height="405" alt="Screenshot 2026-08-27 163955" src="https://github.com/user-attachments/assets/6bbfdf84-8da5-426b-bc86-2c92029737b5" />
 
 
