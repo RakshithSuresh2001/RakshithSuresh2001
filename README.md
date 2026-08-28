@@ -1,6 +1,6 @@
  📌Featured Projects
 
- Custom ISA accelerator
+ **Custom ISA accelerator**
 
 RV32I pipeline with custom RISC-V ISA extension (MLOAD/MMUL/MSTORE) offloading 8x8 matrix multiply to a weight-stationary systolic array over AXI-Lite. 27/27 tests passing, ASAP7 7nm PD: 11,562 cells, 1,515 µm², 756MHz.
 
@@ -67,6 +67,11 @@ Reran the testbench under Synopsys VCS: 26/27 checks passed identically to Veril
 Random Forest regression model predicting post-synthesis PPA from RTL features, achieving 92% accuracy. Automated via Python and TCL scripts integrated into the OpenROAD flow, cutting manual iteration cycles by 40%.
 
 <img width="443" height="207" alt="pdn_heatmap" src="https://github.com/user-attachments/assets/3b593806-f4e6-4d19-bd98-0f82d13fbaf9" />
+
+**Arya-OS**
+
+<img width="733" height="405" alt="Screenshot 2026-08-27 163955" src="https://github.com/user-attachments/assets/6bbfdf84-8da5-426b-bc86-2c92029737b5" />
+
 
 📧 rakshithsuresh2001@gmail.com
 
