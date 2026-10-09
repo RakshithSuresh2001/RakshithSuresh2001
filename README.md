@@ -1,5 +1,11 @@
  📌Featured Projects
 
+**Argo: RISCV SoC with a systolic array accelerator**
+
+Argo is a small AI-accelerator SoC built around a PicoRV32 RISC-V core, an 8x8 systolic array for matrix multiply, two 4 KB SRAM macros, SPI boot and UART, all inside a full IO ring with bond pads. I took it from RTL to GDS on IHP’s SG13CMOS5L 130nm process with LibreLane, OpenROAD and Yosys, and signed it off entirely in KLayout: zero DRC, density and antenna errors, a matching LVS, and gate-level simulation passing on the routed netlist. It runs at 100 MHz at the typical corner and is planned for fabrication through IHP.
+
+<img width="937" height="935" alt="Screenshot 2026-10-08 233015" src="https://github.com/user-attachments/assets/689b26a1-917e-421a-8111-1075b2c9e8a6" />
+
  **Custom ISA accelerator**
 
 RV32I pipeline with custom RISC-V ISA extension (MLOAD/MMUL/MSTORE) offloading 8x8 matrix multiply to a weight-stationary systolic array over AXI-Lite. 27/27 tests passing, ASAP7 7nm PD: 11,562 cells, 1,515 µm², 756MHz.
