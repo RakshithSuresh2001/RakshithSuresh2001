@@ -6,7 +6,7 @@ Argo is a small AI-accelerator SoC built around a PicoRV32 RISC-V core, an 8x8 s
 
 Update: Added a SRAM Test Block which runs it own VDD_SRAM supply through a dedicated analog pad.
 
-<img width="240" height="240" alt="argo_die_clean" src="https://github.com/user-attachments/assets/2655ebc0-4729-4ae5-8765-3cea7b167016" />
+<img width="480" height="480" alt="argo_die_clean" src="https://github.com/user-attachments/assets/2655ebc0-4729-4ae5-8765-3cea7b167016" />
 
  **Custom ISA accelerator**
 
