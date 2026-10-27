@@ -4,11 +4,9 @@
 
 Argo is a small AI-accelerator SoC built around a PicoRV32 RISC-V core, an 8x8 systolic array for matrix multiply, two 4 KB SRAM macros, SPI boot and UART, all inside a full IO ring with bond pads. I took it from RTL to GDS on IHP’s SG13CMOS5L 130nm process with LibreLane, OpenROAD and Yosys, and signed it off entirely in KLayout: zero DRC, density and antenna errors, a matching LVS, and gate-level simulation passing on the routed netlist. It runs at 100 MHz at the typical corner and is planned for fabrication through IHP.
 
-<img width="337" height="335" alt="Screenshot 2026-10-08 233015" src="https://github.com/user-attachments/assets/689b26a1-917e-421a-8111-1075b2c9e8a6" />
-
 Update: Added a SRAM Test Block which runs it own VDD_SRAM supply through a dedicated analog pad.
 
-<img width="400" height="400" alt="argo_full" src="https://github.com/user-attachments/assets/8d21b030-5f58-481a-bf83-6636edacb6a6" />
+<img width="240" height="240" alt="argo_die_clean" src="https://github.com/user-attachments/assets/2655ebc0-4729-4ae5-8765-3cea7b167016" />
 
  **Custom ISA accelerator**
 
