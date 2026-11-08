@@ -8,7 +8,7 @@ Update: Added a SRAM Test Block which runs it own VDD_SRAM supply through a dedi
 
 <img width="400" height="400" alt="argo_die_klayout_shipped" src="https://github.com/user-attachments/assets/ea3cdae0-8316-41e6-987a-c55e346dda7a" />
 
-<img width="558" height="361" alt="argo_signoff_table_shipped" src="https://github.com/user-attachments/assets/888ed788-ba52-4e4f-987d-702df6e1b99f" />
+<img width="558" height="261" alt="argo_signoff_table_shipped" src="https://github.com/user-attachments/assets/888ed788-ba52-4e4f-987d-702df6e1b99f" />
 
  **Custom ISA accelerator**
 
